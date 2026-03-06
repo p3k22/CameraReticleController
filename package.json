@@ -1,0 +1,11 @@
+{
+  "name": "com.p3k.camerareticlecontroller",
+  "version": "1.0.0",
+  "displayName": "Camera Reticle Controller",
+  "description": "Tag-driven camera reticle system for Unity. Raycasts from a camera each frame, finds the closest IReticleTarget, and shows the matching reticle UI image.",
+  "unity": "2020.1",
+  "documentationUrl": "https://github.com/p3k22/CameraReticleController/#readme",
+  "author": {
+    "name": "P3k"
+  }
+}
